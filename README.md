@@ -1,4 +1,4 @@
-### Hi! I'm Sriram Hariharan! 👋
+### Hi! I'm Sriram! 👋
 
 - 💼  JP Morgan SWE Intern, summer 2019 & 2020
 - 🎓  Computer Science, UT Austin 21 (Hook 'Em 🤘)

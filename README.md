@@ -1,6 +1,6 @@
 ### Hi! I'm Sriram! 👋
 
-- 💼  &nbsp;JP Morgan SWE Intern, summer 2019 & 2020
+- 💼  &nbsp;Software Engineer @ JP Morgan Chase, summer 2021 - present
 - 🎓  &nbsp;Computer Science, UT Austin 21 (Hook 'Em 🤘)
 - 🐙  &nbsp;Founder @ [instok.org](https://www.instok.org/) 
 - 👨‍💻  &nbsp;Web, Mobile, Full Stack, PM

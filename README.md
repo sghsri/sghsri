@@ -7,4 +7,4 @@
 
 Any new ideas or opportunities? Email me: sghsri@gmail.com
 
-Check out my portfolio at [sriramhariharan.com](sriramhariharan.com)!
+Check out my portfolio at [sriramhariharan.com](www.sriramhariharan.com)!

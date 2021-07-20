@@ -6,4 +6,5 @@
 - 👨‍💻  &nbsp;Web, Mobile, Full Stack, PM
 
 Any new ideas or opportunities? Email me: sghsri@gmail.com
+
 Check out my portfolio at [sriramhariharan.com](https://www.sriramhariharan.com)

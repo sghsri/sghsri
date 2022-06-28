@@ -1,5 +1,6 @@
 ### Hi! I'm Sriram! 👋
 
+- 🛍️  &nbsp;Staff Engineer @ Ibotta
 - 🎓  &nbsp;Computer Science, UT Austin 21 (Hook 'Em 🤘)
 - 🐙  &nbsp;Founder @ [octoshop](https://www.instok.org/) 
 - 👨‍💻  &nbsp;Web, Mobile, Full Stack, PM

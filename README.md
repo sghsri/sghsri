@@ -2,7 +2,7 @@
 
 - 🛍️  &nbsp;Staff Engineer @ [Ibotta](https://ibotta.com/)
 - 🎓  &nbsp;Computer Science, UT Austin 21 (Hook 'Em 🤘)
-- 🐙  &nbsp;Founder @ [octoshop](https://www.instok.org/) 
+- 🐙  &nbsp;Founder @ [octoshop](https://www.instok.org/) (Acquired by Ibotta)
 - 👨‍💻  &nbsp;Web, Mobile, Full Stack, PM
 
 Any new ideas or opportunities? Email me: sghsri@gmail.com
